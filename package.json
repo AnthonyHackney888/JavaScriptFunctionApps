@@ -1,0 +1,16 @@
+{
+  "name": "javascriptfunctionapps",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "async": "^3.2.1",
+    "azure-odata-sql": "^0.2.0",
+    "tedious": "^11.4.0",
+    "tedious-connection-pool": "^1.0.5"
+  },
+  "devDependencies": {}
+}
